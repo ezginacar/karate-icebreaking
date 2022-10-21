@@ -1,0 +1,24 @@
+[{
+
+  "fatma": {
+    "okul": "bakırçay üni.",
+    "mezunitetYil" : 2012
+  },
+  "bengisu": {
+    "okul": "istanbul üni.",
+    "hobi" : "dans"
+  },
+  "nurtugba": {
+    "okul": "ankara üni.",
+    "projeBilgi": [
+      {
+        "ad" : "FMS",
+        "po" : "Kıvanç"
+      },
+      {
+        "ad" : "primeclass",
+        "po" : "Yusuf"
+      }
+    ]
+  }
+}]
